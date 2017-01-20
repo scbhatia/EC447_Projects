@@ -1,0 +1,10 @@
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe.config
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.exe
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\bin\Debug\Lab8.pdb
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.Viewer.resources
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.exe
+c:\users\scbha\onedrive\documents\visual studio 2015\Projects\Lab8\Lab8\obj\Debug\Lab8.pdb
